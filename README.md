@@ -1,5 +1,4 @@
-# Digital-Wallet-System
-Designed and implemented a RESTful API for an E-Wallet payment system supporting core functionalities such as user management, wallet balance operations, and transaction processing. The application is built using Java with Spring Boot, utilizes Hibernate and JDBC for database interaction, Maven for project management, and MySQL for data storage.
+
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/06cd107d-2fff-4e2d-95cf-fc42f65ed563" />
 
 The Digital Wallet Application's REST API, developed by E PAY, offers customers the convenience and flexibility of being able to transfer money to and from their digital wallet and linked bank accounts. The API also allows for transactions with other registered customers on the E PAY platform and the ability to make payments directly to saved beneficiaries through their bank accounts.
